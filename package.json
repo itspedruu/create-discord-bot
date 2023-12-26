@@ -1,0 +1,12 @@
+{
+  "name": "@itspedruu/create-discord-bot",
+  "version": "1.0.0",
+  "description": "Personal script to create a discord.js bot template.",
+  "main": "./src/index.js",
+  "author": "Pedro Pinto <pedropinto.01@hotmail.com>",
+  "license": "GPL V3",
+  "type": "module",
+  "bin": {
+    "create-discord-bot": "./src/index.js"
+  }
+}
